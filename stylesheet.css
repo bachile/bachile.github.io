@@ -1,1 +1,14 @@
-Test
+body {
+    background-color: bisque;
+}
+
+p1 {
+    color: rgb(129, 0, 108);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
